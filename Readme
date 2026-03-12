@@ -1,0 +1,29 @@
+# Hi, I'm Agamjot 👋
+
+Computer Information Systems student @ UFV | Data Analyst | ML & Full-Stack Developer  
+Interested in machine learning, financial data, and building things end-to-end.
+
+---
+
+## 🛠️ Skills
+**ML & AI:** Python · PyTorch · ResNet · LiDAR Processing  
+**Web:** React · Vite · FastAPI · Tailwind CSS  
+**Data:** Power BI · DAX · SQL · Pandas · Excel  
+**DevOps:** Docker · Hugging Face · Vercel · Git · GCP  
+
+---
+
+## 🚀 Featured Projects
+
+**[Tree Species Classifier](https://github.com/agamjot2003/species-classifier-frontend)**  
+Full-stack ML app classifying 33 tree species from LiDAR point clouds · 78% accuracy · 2nd on CodaBench
+
+**Financial Market Sentiment Analysis**  
+ML models on 1M+ social media data points to generate stock trading signals · Python · Plotly
+
+**Stock Prediction App**  
+Forecasts Apple, Google, Microsoft & Tesla prices using Prophet · Deployed on Streamlit
+
+---
+
+📫 agamjot.kaur@student.ufv.ca · [LinkedIn](https://linkedin.com/in/agamjot)
